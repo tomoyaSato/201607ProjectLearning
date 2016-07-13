@@ -1,5 +1,0 @@
-参考サイト
-https://www.server-world.info/query?os=CentOS_6&p=postgresql
-
-[3]	cent ユーザーでログインし、DB操作のテストをします。
-cent ユーザーでのログインが出来ない。調査中
