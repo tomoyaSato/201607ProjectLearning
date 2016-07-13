@@ -1,0 +1,11 @@
+■Apache Solr設定手順書
+Apache Solr設定手順についてのまとめ
+
+■前提条件
+下記の３つがインストール済みであること。
+・Eclipse
+・Tomcat
+・Git
+
+■設定手順
+１．
